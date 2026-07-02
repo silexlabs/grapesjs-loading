@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> This project has moved to the Silex monorepo: https://short.silex.me/code
+>
+> Please open issues and pull requests there.
+>
+> The npm package is no longer maintained on its own. Details and how to help: https://github.com/GrapesJS/grapesjs/discussions/6779
+
+
 # Grapesjs Loading
 
 Shows a loading bar while the site is loaded or saved. By default it looks like the classic loading bar on top of the page, e.g. on github.com.
